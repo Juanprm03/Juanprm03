@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# 👋 ¡Hola! Soy Juan
+## 👋 ¡Hola! Soy Juan
 
 Soy un desarrollador backend apasionado por construir soluciones eficientes, seguras y escalables. Me encanta crear APIs, trabajar con bases de datos robustas y mantenerme actualizado con nuevas tecnologías. Actualmente, me encuentro en proceso de convertirme en **DevOps**.
 
