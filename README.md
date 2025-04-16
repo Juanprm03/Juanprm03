@@ -31,14 +31,14 @@ Soy un desarrollador backend apasionado por construir soluciones eficientes, seg
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [JpDeveloper03/.github](https://github.com/JpDeveloper03/.github)<br>
-2. 📔 Created new repository [JpDeveloper03/.github](https://github.com/JpDeveloper03/.github)<br>
+1. ⬆️ Pushed 1 commit(s) to [Juanprm03/Juanprm03](https://github.com/Juanprm03/Juanprm03)<br>
+2. ⬆️ Pushed 1 commit(s) to [Juanprm03/Juanprm03](https://github.com/Juanprm03/Juanprm03)<br>
 3. ⬆️ Pushed 1 commit(s) to [Juanprm03/Juanprm03](https://github.com/Juanprm03/Juanprm03)<br>
-4. ⬆️ Pushed 1 commit(s) to [Juanprm03/Juanprm03](https://github.com/Juanprm03/Juanprm03)<br>
-5. 📔 Created new repository [Juanprm03/Juanprm03](https://github.com/Juanprm03/Juanprm03)<br>
+4. ⬆️ Pushed 1 commit(s) to [JpDeveloper03/.github](https://github.com/JpDeveloper03/.github)<br>
+5. 📔 Created new repository [JpDeveloper03/.github](https://github.com/JpDeveloper03/.github)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, April 16th, 2025, 12:34:05 PM
+Last Updated: Wednesday, April 16th, 2025, 1:07:31 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📫 ¿Cómo contactarme?
