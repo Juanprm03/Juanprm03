@@ -30,6 +30,8 @@ Soy un desarrollador backend apasionado por construir soluciones eficientes, seg
 - 🧠 Actualmente explorando más sobre arquitectura de software, buenas prácticas backend y DevOps.
 
 ### :zap: Actividad reciente
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
 
 ## 📫 ¿Cómo contactarme?
 
