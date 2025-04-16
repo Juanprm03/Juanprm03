@@ -31,7 +31,15 @@ Soy un desarrollador backend apasionado por construir soluciones eficientes, seg
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
+1. ⬆️ Pushed 1 commit(s) to [Gero-Trujillo/exchangehub](https://github.com/Gero-Trujillo/exchangehub)<br>
+2. ⬆️ Pushed 1 commit(s) to [Gero-Trujillo/exchangehub](https://github.com/Gero-Trujillo/exchangehub)<br>
+3. ⬆️ Pushed 1 commit(s) to [Gero-Trujillo/exchangehub](https://github.com/Gero-Trujillo/exchangehub)<br>
+4. ⬆️ Pushed 1 commit(s) to [Gero-Trujillo/exchangehub](https://github.com/Gero-Trujillo/exchangehub)<br>
+5. <br>
+<!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
+Last Updated: Wednesday, April 16th, 2025, 2:14:27 AM
+<!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📫 ¿Cómo contactarme?
 
