@@ -29,6 +29,8 @@ Soy un desarrollador backend apasionado por construir soluciones eficientes, seg
 - 📘 Fan de la automatización, la eficiencia y el código limpio.
 - 🧠 Actualmente explorando más sobre arquitectura de software, buenas prácticas backend y DevOps.
 
+### :zap: Actividad reciente
+
 ## 📫 ¿Cómo contactarme?
 
 - <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail logo" height="20"/> [juanpabloruizmarin333@gmail.com](mailto:juanpabloruizmarin333@gmail.com)  
