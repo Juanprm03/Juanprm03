@@ -31,14 +31,9 @@ Soy un desarrollador backend apasionado por construir soluciones eficientes, seg
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v0.1.0](https://github.com/Juanprm03/reporeleases/releases/tag/v0.1.0) in [Juanprm03/reporeleases](https://github.com/Juanprm03/reporeleases)<br>
-2. ⬆️ Pushed 1 commit(s) to [Juanprm03/reporeleases](https://github.com/Juanprm03/reporeleases)<br>
-3. 📔 Created new repository [Juanprm03/reporeleases](https://github.com/Juanprm03/reporeleases)<br>
-4. ⬆️ Pushed 3 commit(s) to [Juanprm03/mirepoGit](https://github.com/Juanprm03/mirepoGit)<br>
-5. 🎉 Merged PR [#3](https://github.com/Juanprm03/mirepoGit/pull/3) in [Juanprm03/mirepoGit](https://github.com/Juanprm03/mirepoGit)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, May 17th, 2025, 1:20:03 AM
+Last Updated: Saturday, May 17th, 2025, 12:31:18 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📫 ¿Cómo contactarme?
